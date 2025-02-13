@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250856032730",
+    "project_id": "task-one-a5da2",
+    "storage_bucket": "task-one-a5da2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250856032730:android:c4b87cb1f3c5653f2558e3",
+        "android_client_info": {
+          "package_name": "com.example.taskone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe8PPgxJAkzIr0Y0OPfaXScIuI6bIWhEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
