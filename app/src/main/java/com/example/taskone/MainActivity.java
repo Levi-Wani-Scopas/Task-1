@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    private void uploadData(String title, String description) {
+    public void uploadData(String title, String description) {
         pd.setTitle("Adding Data to Firestore");
         pd.show();
         String id = UUID.randomUUID().toString();
